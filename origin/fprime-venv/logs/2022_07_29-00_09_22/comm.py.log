@@ -1,0 +1,5 @@
+[2022-07-29 00:09:27,198] [INFO] root: Logging system initialized!
+[2022-07-29 00:09:27,198] [INFO] comm: Starting uplinker/downlinker connecting to FSW using Paired-TCP/UDP@0.0.0.0:50000 with FpFramerDeframer
+[2022-07-29 00:09:27,198] [INFO] gds_sender: Client connected to 127.0.0.1:50050
+[2022-07-29 00:09:27,198] [INFO] udp_handler: Server connected to 0.0.0.0:50000
+[2022-07-29 00:09:28,164] [INFO] tcp_handler: Server connected to 0.0.0.0:50000

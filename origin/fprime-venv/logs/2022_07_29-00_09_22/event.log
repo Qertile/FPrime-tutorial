@@ -1,0 +1,8 @@
+2022-07-29 00:09:36,(2(0)-1659024576:548086),cmdDisp.OpCodeDispatched,1281,EventSeverity.COMMAND,Opcode 0x500 dispatched to port 5
+2022-07-29 00:09:36,(2(0)-1659024576:548122),cmdDisp.NoOpReceived,1287,EventSeverity.ACTIVITY_HI,Received a NO-OP command
+2022-07-29 00:09:36,(2(0)-1659024576:548127),cmdDisp.OpCodeCompleted,1282,EventSeverity.COMMAND,Opcode 0x500 completed
+2022-07-29 00:09:50,(2(0)-1659024590:696073),cmdDisp.OpCodeDispatched,1281,EventSeverity.COMMAND,Opcode 0x701 dispatched to port 8
+2022-07-29 00:09:50,(2(0)-1659024590:696141),cmdDisp.OpCodeCompleted,1282,EventSeverity.COMMAND,Opcode 0x701 completed
+2022-07-29 00:10:17,(2(0)-1659024617:139442),cmdDisp.OpCodeDispatched,1281,EventSeverity.COMMAND,Opcode 0x500 dispatched to port 5
+2022-07-29 00:10:17,(2(0)-1659024617:139468),cmdDisp.NoOpReceived,1287,EventSeverity.ACTIVITY_HI,Received a NO-OP command
+2022-07-29 00:10:17,(2(0)-1659024617:139477),cmdDisp.OpCodeCompleted,1282,EventSeverity.COMMAND,Opcode 0x500 completed
